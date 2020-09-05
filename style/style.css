@@ -1,0 +1,34 @@
+.content {
+    width: 70%;
+    margin: 10px auto;
+
+}
+
+figure {
+    float: right;
+    font-style: italic;
+}
+
+h1 {
+    font-size: 32px;
+    margin-top: 1.5em;
+}
+
+h3 {
+    margin-top: 1.5em;
+}
+
+table,
+caption,
+th,
+td {
+    border: 1px solid black;
+}
+
+table {
+    width: 80%;
+}
+
+.population {
+    width: 30%;
+}
